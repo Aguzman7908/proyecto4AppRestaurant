@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/proyecto4AppRestaurant/static/css/main.713e9878.css",
-    "main.js": "/proyecto4AppRestaurant/static/js/main.658e2dc0.js",
+    "main.css": "/proyecto4AppRestaurant/static/css/main.1749e51d.css",
+    "main.js": "/proyecto4AppRestaurant/static/js/main.aa0d8397.js",
+    "static/media/logo2.jfif": "/proyecto4AppRestaurant/static/media/logo2.abc8022516a35c5c1a50.jfif",
     "index.html": "/proyecto4AppRestaurant/index.html",
-    "main.713e9878.css.map": "/proyecto4AppRestaurant/static/css/main.713e9878.css.map",
-    "main.658e2dc0.js.map": "/proyecto4AppRestaurant/static/js/main.658e2dc0.js.map"
+    "main.1749e51d.css.map": "/proyecto4AppRestaurant/static/css/main.1749e51d.css.map",
+    "main.aa0d8397.js.map": "/proyecto4AppRestaurant/static/js/main.aa0d8397.js.map"
   },
   "entrypoints": [
-    "static/css/main.713e9878.css",
-    "static/js/main.658e2dc0.js"
+    "static/css/main.1749e51d.css",
+    "static/js/main.aa0d8397.js"
   ]
 }
